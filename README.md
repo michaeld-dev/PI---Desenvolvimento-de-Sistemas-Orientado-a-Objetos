@@ -109,4 +109,5 @@ O trabalho proposto projeta um Diagrama de Caso de Uso para um Sistema de Gestã
 2. **Cenário Alternativo: Permissões**
    - O Fornecedor não terá permissão para editar conteúdos, excluir e manipular arquivos. Essas ações são permitidas apenas a usuários com permissão e autenticação de autorização junto ao sistema.
    ![image](https://github.com/thiagocvsilva/trabalho/blob/main/diagram%20de%20classe%20.png)
-[Area do Aluno](https://gamma.app/docs/Area-do-Aluno-tddjehqtzl4jfsh)
+
+   [Area do Aluno](https://gamma.app/docs/Area-do-Aluno-tddjehqtzl4jfsh)
