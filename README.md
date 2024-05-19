@@ -28,18 +28,11 @@ Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
 O trabalho proposto projeta um Diagrama de Caso de Uso para um Sistema de Gestão Escolar, focando no controle, cadastro e administração de usuários em uma universidade. O documento detalha os cenários principais e alternativos para três interfaces principais: acesso ao sistema, cadastro de usuários e área exclusiva para usuários cadastrados. Cada cenário descreve as interações entre os atores envolvidos (incluindo pessoas físicas e jurídicas, professores, alunos e fornecedores, além do sistema), destacando pré-condições, pós-condições e permissões específicas para cada tipo de usuário. Além disso, o trabalho inclui um diagrama de classe que complementa a descrição dos casos de uso, proporcionando uma visão mais abrangente da estrutura do sistema.
 
 **Palavras-chave:** Sistema de Gestão Escolar; Diagrama de Caso de Uso; Controle de Acesso; Interface de Cadastro; Iteração Usuário-Sistema.
-# Sumário
 
-1. Diagrama de casos de uso ............................................................... 
-
-2. Descrição de cenários dos casos de uso .......................................... 
-
-3. Diagrama de classe ........................................................................... 
-
-Conclusão .............................................................................................. 
+![Texto alternativo](https://github.com/thiagocvsilva/trabalho/blob/main/Captura%20de%20tela%202024-05-19%20182835.png)
 
 
-#  Descrição de cenários dos casos de uso do Sistema de Gestão Escolar
+# 2. Descrição de cenários dos casos de uso do Sistema de Gestão Escolar
 
 ## Interface Primária
 
@@ -115,3 +108,4 @@ Conclusão .....................................................................
 
 2. **Cenário Alternativo: Permissões**
    - O Fornecedor não terá permissão para editar conteúdos, excluir e manipular arquivos. Essas ações são permitidas apenas a usuários com permissão e autenticação de autorização junto ao sistema.
+   ![image](https://github.com/thiagocvsilva/trabalho/blob/main/diagram%20de%20classe%20.png)
