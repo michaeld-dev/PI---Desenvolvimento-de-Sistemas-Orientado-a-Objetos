@@ -110,4 +110,25 @@ O trabalho proposto projeta um Diagrama de Caso de Uso para um Sistema de Gestã
    - O Fornecedor não terá permissão para editar conteúdos, excluir e manipular arquivos. Essas ações são permitidas apenas a usuários com permissão e autenticação de autorização junto ao sistema.
    ![image](https://github.com/thiagocvsilva/trabalho/blob/main/diagram%20de%20classe%20.png)
 
-   [Area do Aluno](https://gamma.app/docs/Area-do-Aluno-tddjehqtzl4jfsh)
+## Interfaces do Projeto Sistema de Gestão Escolar
+## Protótipos das Interfaces
+- **Pessoa Física**
+- **Pessoa Jurídica**
+- **Professores**
+- **Fornecedores**
+- **Alunos**
+
+
+Links das interfaces do projeto:
+
+[Area do Aluno](https://gamma.app/docs/Area-do-Aluno-tddjehqtzl4jfsh)
+  
+[Area dos Professores](https://gamma.app/docs/Cadastro-e-Confirmacao-de-Professores-j6l4excng4e4l73)
+
+[Area dos Fornecedores](https://gamma.app/docs/Acesso-a-Area-do-Fornecedor-m27vsokt5gf4xz8)
+
+[Area de Cadastro](https://gamma.app/docs/Interface-de-Cadastro-rtfj0c8pj1yd44t)
+
+
+
+
