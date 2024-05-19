@@ -28,6 +28,16 @@ Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
 O trabalho proposto projeta um Diagrama de Caso de Uso para um Sistema de Gestão Escolar, focando no controle, cadastro e administração de usuários em uma universidade. O documento detalha os cenários principais e alternativos para três interfaces principais: acesso ao sistema, cadastro de usuários e área exclusiva para usuários cadastrados. Cada cenário descreve as interações entre os atores envolvidos (incluindo pessoas físicas e jurídicas, professores, alunos e fornecedores, além do sistema), destacando pré-condições, pós-condições e permissões específicas para cada tipo de usuário. Além disso, o trabalho inclui um diagrama de classe que complementa a descrição dos casos de uso, proporcionando uma visão mais abrangente da estrutura do sistema.
 
 **Palavras-chave:** Sistema de Gestão Escolar; Diagrama de Caso de Uso; Controle de Acesso; Interface de Cadastro; Iteração Usuário-Sistema.
+# Sumário
+
+1. Diagrama de casos de uso ............................................................... 
+
+2. Descrição de cenários dos casos de uso .......................................... 
+
+3. Diagrama de classe ........................................................................... 
+
+Conclusão .............................................................................................. 
+
 
 #  Descrição de cenários dos casos de uso do Sistema de Gestão Escolar
 
